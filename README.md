@@ -20,7 +20,7 @@ This is a simple React To-Do App that allows users to add and remove tasks. Buil
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone<https://github.com/shireesha-k/react-todo.git>
    ```
 
 2. Navigate to the project directory:
